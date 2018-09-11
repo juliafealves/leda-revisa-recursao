@@ -14,8 +14,6 @@ public class GeradorSequencia {
 		if (n == 0) {
 			System.out.print(n + " ");
 		} else {
-			// A ORDEM DOS COMANDOS NA RECURSÃO ESTÁ INVERTIDA
-			// VEJA O EFEITO E TENTE ENTENDER O PORQUE DISSO
 			geraSequencia2(n - 1);
 			System.out.print(n + " ");
 		}
