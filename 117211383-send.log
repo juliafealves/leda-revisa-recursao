@@ -7,3 +7,13 @@
   <level>FINE</level>
   <message>File 117211383-JULIA FERNANDES ALVES.zip was received. It was sent by JULIA FERNANDES ALVES from IP 150.165.42.208</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-09-11T15:12:41.503-0300</date>
+  <logger>JULIA FERNANDES ALVES</logger>
+  <level>FINE</level>
+  <message>File 117211383-JULIA FERNANDES ALVES.zip was received. It was sent by JULIA FERNANDES ALVES from IP 192.168.0.108</message>
+</record>
